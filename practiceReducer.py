@@ -1,0 +1,1 @@
+# this will take in mapped.txt and reduce it into a file named mappedAndReduced.txt
