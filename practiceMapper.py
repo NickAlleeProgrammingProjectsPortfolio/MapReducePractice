@@ -5,7 +5,7 @@
 ## map out store name and payment type
 ## used most code from dr.Case's 2sortshuffle.py
 
-input = open("d.txt", "r")
+input = open("purchases.txt", "r")
 output = open("mapped.txt", "w")
 
 for line in input:

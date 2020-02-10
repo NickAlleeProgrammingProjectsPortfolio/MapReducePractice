@@ -1,0 +1,18 @@
+Baby    10388.640000000001
+Books    10372.39
+CDs    12454.189999999999
+Cameras    11987.279999999997
+Children's Clothing    10286.19
+Computers    9489.799999999996
+Consumer Electronics    12053.150000000001
+Crafts    11820.77
+DVDs    11797.440000000002
+Garden    11903.730000000001
+Health and Beauty    12552.209999999997
+Men's Clothing    13427.959999999995
+Music    10650.27
+Pet Supplies    12018.900000000001
+Sporting Goods    13678.9
+Toys    9271.41
+Video Games    11129.750000000002
+Women's Clothing    13016.439999999999
