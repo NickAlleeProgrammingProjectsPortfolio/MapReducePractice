@@ -5,8 +5,8 @@
 ### i think this will require our data to be sorted.
 
 ## used most code from dr.Case's 2sortshuffle.py
-startingF = open("02.txt","r")
-outF = open("r.txt", "w")
+startingF = open("mappedSorted.txt","r")
+outF = open("reduced.txt", "w")
 
 thisCategory = ""
 totaler = 0.0
