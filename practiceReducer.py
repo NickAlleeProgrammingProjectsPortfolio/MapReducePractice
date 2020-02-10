@@ -16,11 +16,12 @@ for line in startingF:
     category, value = line
     if (category != ""):
         if category != thisCategory:
-            outF.write(thisCategory + '    ' + str(totaler))
+            if (thisCategory != ""):
+                outF.write(thisCategory + '    ' + str(totaler) + "\n")
 
             thisCategory = category
             totaler = 0.0
-    totaler += value
+    totaler += float(value)
 
 outF.write(thisCategory + '    ' + str(totaler))
 
